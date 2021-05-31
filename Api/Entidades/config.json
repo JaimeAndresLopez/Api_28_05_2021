@@ -1,0 +1,17 @@
+{
+    "file": [
+        {"Content-Type": "application/json"},
+        {"Content-Type": "application/pdf"},
+        {"Content-Type": "image/png"}
+    ],
+    "getinst":{
+        "getParam" : {
+            "Param_Opcionales" : {
+                "num1": 1,
+                "num2": 2
+            }
+        }
+    }
+    
+
+}
